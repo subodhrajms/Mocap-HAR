@@ -1,2 +1,2 @@
 # Mocap-HAR
-This repository corresponds to the paper titled "Leveraging spatio-temporal features using graph neural networks for human activity recognition"
+Implementation of the model specified in "Leveraging spatio-temporal features using graph neural networks for human activity recognition"
